@@ -37,16 +37,19 @@ Choose a Case Folder location.
 
 Click Next → Click Finish.
 
+
 ![a2](https://github.com/user-attachments/assets/d950604c-6a60-4316-b405-5c6e3abc2a41)
 
 
 Add the Virtual Disk as an Evidence Source
 Click Add Data Source → Select Host
 
+
 ![a3](https://github.com/user-attachments/assets/b74502f7-8c83-4e66-b99d-0a3aa1b5bdfd)
 
 
 Select Local Disk → next
+
 
 ![a4](https://github.com/user-attachments/assets/7c3d7a9a-651f-4444-9768-4837ea8b4988)
 
@@ -63,11 +66,13 @@ Go to File Views (left panel).
 
 ![a6](https://github.com/user-attachments/assets/313b95ba-e241-43e4-984c-2cdee95881b8)
 
+
 ![a7](https://github.com/user-attachments/assets/1785e17d-406d-4d02-a8e4-1506889dcb64)
 
 
 Click Deleted Files → Find your deleted images.
 Right-click an image → Click Extract File.
+
 
 ![a8](https://github.com/user-attachments/assets/90759059-836e-4fa4-9909-7b11bac730ec)
 
@@ -79,19 +84,25 @@ Image is recovered successfully.
 
 Folder before deleting the files
 
+
+
 ![f1](https://github.com/user-attachments/assets/f0afb378-7c9f-45c8-aeeb-58f8525de737)
 
 
 
 Folder after deleting the files
 
+
 ![a9](https://github.com/user-attachments/assets/d1107745-13e9-4533-be26-17ea7dffb0cf)
+
 
 
 Folder after extracting the deleted images using autopsy
 
+
 ![a10](https://github.com/user-attachments/assets/6139517b-dfdc-49c1-9864-4a92bed14734)
 
 
-Result:
+## Result:
+
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
