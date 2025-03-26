@@ -1,4 +1,4 @@
-![a5](https://github.com/user-attachments/assets/9c64df3c-555b-4700-a165-c8d050f737ca)# Surveying and Preserving the Digital Crime Scene
+# Surveying and Preserving the Digital Crime Scene
 ```
 NAME : RAJESH A
 REG NO: 212222100042
